@@ -1,19 +1,14 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto+Slab:wght@100..900&display=swap');
-body{
-    font-family: crimson ;
+*{
+    margin: 0;
+    padding: 0;
 }
-a {
-    text-decoration: none;}
-.hero-img {
-    display: block;
-    width: 100%;
-    height: auto;        
+main{
+    max-width: 100%;
+    margin: 2rem auto;
+    font-family: 'Courier New', Courier, monospace;
+
 }
-img{
-    overflow-clip-margin: content-box;
-    overflow: clip;
-    overflow-x: 2;
-    overflow-y: ;
-}
+header img{
+    position: center;
 }
