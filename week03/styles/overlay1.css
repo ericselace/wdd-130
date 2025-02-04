@@ -26,4 +26,19 @@ h2{
     bottom: 25px;
 
 }
+img{
+    width: 20%;
+    position: absolute;
+    top: 300px;
+    right: 15px;
+    border: 1px solid #000;
+}
+.flaot p{
+    position: absolute;
+    top: 300px;
+    right: 300px;
+    box-shadow: 0 0 30px #111;
+    background: radial-gradient(#eee, #11aa11);
+    margin-left: 10px;
+}
 
